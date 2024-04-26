@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Váňa
-- 🌱 I’m currently learning HTML5; CSS3; SCSS; Bootsrap5; JavaScript; React; mySQL; Wordpress
+- 🌱 I’m currently learning HTML5; CSS3; SCSS; Bootsrap5; jQuery; JavaScript; TypeScript; React; Wordpress
 - 💞️ I’m looking for part-time work or a brigade in IT.
 - 📫 mata999@seznam.cz
 -  +420736433063
